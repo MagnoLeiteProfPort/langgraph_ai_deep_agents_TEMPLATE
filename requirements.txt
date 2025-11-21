@@ -1,0 +1,9 @@
+markdownify
+pydantic
+dotenv
+IPython
+langchain
+rich
+tavily
+langchain-openai
+langchain-anthropic
